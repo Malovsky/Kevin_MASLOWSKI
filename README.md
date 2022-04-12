@@ -1,14 +1,12 @@
 <h1> Hello World ! <img src="https://github.com/Malovsky/Kevin_MASLOWSKI/blob/main/gifs/Hi.gif" width="30px"></h1>
-<h6>I'm Kevin MASLOWSKI developer FullStack JS.</h6>
-<h6>I was a restaurant manager during 5 years.</h6>
-<h6>One day i decided to become developer so I started to learn code.</h6>
-<h6><b>Now looking for a job. 👀</b></h6>
+<p>I'm <b>Kevin MASLOWSKI</b> developer FullStack JS.</p>
+<p>I was a restaurant manager during 5 years.</p>
+<p>One day i decided to become developer so I started to learn code.</p>
+<p><b>Now looking for a job. 👀</b></p>
 
 ## Contact me :
 
 [<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/kevin-maslowski-2130ab185/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>](mailto:kevinmaslowski@gmail.com)
-
-<hr/>
 
 ## Languages I work with :
 
