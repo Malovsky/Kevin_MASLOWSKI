@@ -1,11 +1,8 @@
-
-# Kevin_MASLOWSKI
-
-<h2> Hello World ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-I'm Kevin MASLOWSKI developer FullStack JS
-I was a restaurant manager during 5 years.
-One day i decided to become developer so I started to learn code.
-<b>Now looking for a job. 👀</b>
+<h1> Hello World ! <img src="https://github.com/Malovsky/Kevin_MASLOWSKI/blob/main/gifs/Hi.gif" width="30px"></h1>
+<h6>I'm Kevin MASLOWSKI developer FullStack JS.</h6>
+<h6>I was a restaurant manager during 5 years.</h6>
+<h6>One day i decided to become developer so I started to learn code.</h6>
+<h6><b>Now looking for a job. 👀</b></h6>
 
 ## Contact me :
 
