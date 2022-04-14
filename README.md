@@ -1,7 +1,7 @@
 <h1> Hello World ! <img src="https://github.com/Malovsky/Kevin_MASLOWSKI/blob/main/gifs/Hi.gif" width="30px"></h1>
-<p>I'm <b>Kevin MASLOWSKI</b> developer FullStack JS.</p>
-<p>I was a restaurant manager during 5 years.</p>
-<p>One day i decided to become developer so I started to learn code.</p>
+<p>I'm <b>Kevin MASLOWSKI</b> and i'm full stack developer with JS.</p>
+<p>Before I worked as a restaurant manager for 5 years.</p>
+<p>One day i decided to become a web developer so I started learning code.</p>
 <p><b>Now looking for a job. 👀</b></p>
 
 ## Contact me :
@@ -27,7 +27,6 @@
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/>](https://www.heroku.com)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://i.imgur.com/Dns5wR8.png"/>](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwinvL2kouT2AhUDkGgJHUxDBa8YABAAGgJ3Zg&ae=2&ohost=www.google.com&cid=CAESbeD23mskK7WJc5I496zyIxMNz8PBJEayKj3gXcKvDRmSxScTK2dhJf_QAI2clNSmzS1y-aGel6o2LfD9kfQdlAhLNp-4Pl7IU2lyrctI0xgxoxrcvKjG6EJlsxchogyWUtkITQYY6eg2XsdM-po&sig=AOD64_3f6MI0kU_yx-KJnwxLxVPZmsvONw&q&adurl&ved=2ahUKEwjUjLWkouT2AhVDzIUKHSCVASUQ0Qx6BAgCEAE)&emsp;
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>](https://slack.com/intl/fr-fr/)&emsp;
-[<img width="45px" style="margin-right: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg"/>](https://stripe.com/fr)
 
 ## Currently learning :
 
