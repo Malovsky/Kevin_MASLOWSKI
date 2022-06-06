@@ -1,4 +1,4 @@
-<h1> Hello World ! <img src="https://github.com/Malovsky/Kevin_MASLOWSKI/blob/main/gifs/Hi.gif" height="30px" width="auto" ></h1>
+<h1> Hello World ! <img src="https://github.com/Malovsky/Kevin_MASLOWSKI/blob/main/gifs/Hi.gif" height="30px" max-width="30px" ></h1>
 <p>I'm <b>Kevin MASLOWSKI</b> and i'm full stack developer with JS.</p>
 <p>Before I worked as a restaurant manager for 5 years.</p>
 <p>One day i decided to become a web developer so I started learning code.</p>
