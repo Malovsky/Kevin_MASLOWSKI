@@ -2,7 +2,6 @@
 <p>I'm <b>Kevin MASLOWSKI</b> and i'm full stack developer with JS.</p>
 <p>Before I worked as a restaurant manager for 5 years.</p>
 <p>One day i decided to become a web developer so I started learning code.</p>
-<p><b>Now looking for a job. 👀</b></p>
 
 ## Contact me :
 
