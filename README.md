@@ -1,6 +1,8 @@
 ## Hello there ! 👋🏻
 I'm **Kevin MASLOWSKI** and I'm full stack developer with JS.
 
+I tried many things like : Java, Angular, Swift, SwiftUI but I prefere JS/TS with React and Node for now.
+
 3 things about me :
 * I worked as a restaurant manager for 5 years. 👨🏼‍🍳
 * I prefere coding in « Light Mode » over « Dark Mode » and my eyes thanks me. 👀
