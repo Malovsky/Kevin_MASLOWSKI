@@ -5,7 +5,7 @@
 
 ## Contact me :
 
-![Next JS]
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 [<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/kevin-maslowski-2130ab185/)&emsp;[<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>](mailto:kevinmaslowski@gmail.com)
 
