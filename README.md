@@ -30,3 +30,6 @@
 ## Currently learning :
 
 [<img width="45px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>](https://www.typescriptlang.org/)&emsp;
+
+## My Github Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Malovsky&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
