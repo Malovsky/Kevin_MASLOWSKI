@@ -46,6 +46,7 @@ I tried many things like : Java, Angular, Swift, SwiftUI but I prefere JS/TS wit
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 ### My Github Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Malovsky&theme=light&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
