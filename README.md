@@ -50,5 +50,5 @@ I tried many things like : Java, Angular, Swift, SwiftUI but I prefere JS/TS wit
 
 ### My Github Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Malovsky&theme=light&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Malovsky&theme=light&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![comment]: <>(https://github-readme-stats.vercel.app/api?username=Malovsky&theme=light&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Malovsky&theme=light&hide_border=true)<br/>
