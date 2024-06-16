@@ -1,5 +1,5 @@
 ## Hello there ! 👋🏻
-I'm **Kevin MASLOWSKI** and I'm full stack developer with JS.
+I'm **Kevin MASLOWSKI** and I'm full stack developer with TypeScript.
 
 I tried many things like : Java, Angular, Swift, SwiftUI but I prefere JS/TS with React and Node for now.
 
